@@ -1,3 +1,3 @@
 # Lanai
-✨ A server performance modpack with optional client mods for Minecraft Fabric.  
-🐉 There be dragons. Ye have been warned.
+A fork of the [Simply Optimized](https://modrinth.com/modpack/sop) modpack adding minor QoL additions.  
+This repository exists to patch in the QoL additons without having to publish on Modrinth.
