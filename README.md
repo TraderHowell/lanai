@@ -12,4 +12,4 @@ This modpack bundles and provides out of the box configuration for the following
 [Details TBD]
 
 ## Getting Support
-Found a bug or have a suggestion? [Open an issue on GitHub](https://github.com/TraderHowell/lanai/issues) after reviewing existing issues.
+Found a bug or have a suggestion? [Open an issue](https://github.com/TraderHowell/lanai/issues) after reviewing existing ones.
