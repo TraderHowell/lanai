@@ -18,8 +18,7 @@ Lanai is bundle of quality of life and performance enhancements for vanilla+ gam
 
 _This modpack was created so that players of a private server can receive automatic updates to the recommended experience, but anyone who appreciates unobtrusive enhancements out of the box may benefit._
 
-## What's Included
-### Out of the Box Configuration
+## Out of the Box Configuration
 The following configuration changes are applied at first launch, respecting any subsequent changes:
 
 <details>
@@ -29,7 +28,7 @@ The following configuration changes are applied at first launch, respecting any 
 
 </details>
 
-### Mods
+## Included Mods
 This modpack bundles and provides out of the box configuration for the following:
 
 <details>
