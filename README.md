@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/TraderHowell/lanai/assets/1821378/b49a2524-9932-4468-8848-5b9b1845f835" height="200px" width="200px">
+  <a href="#"><img src="https://github.com/TraderHowell/lanai/assets/1821378/b49a2524-9932-4468-8848-5b9b1845f835" height="200px" width="200px"></a>
   <br />
   <br />
   A bundle of QoL and performance enhancements for vanilla+ gameplay with sane default configs.
